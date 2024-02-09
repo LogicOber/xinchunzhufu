@@ -5,7 +5,7 @@ export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: '新春祝福语生成器',
   description: '👉 输入要祝福的人以及和你的关系，直接生成祝福语～',
-  copyright: '',
+  copyright: 'LO',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
